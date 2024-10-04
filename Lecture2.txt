@@ -1,0 +1,121 @@
+Primitive data types
+
+int - integer = signed 32 bit (0 to 2147483647)
+long - long integer = signed 64-bit (0 to 9223372036854775807)
+float   - floating point number = signed 32 bit (0 to 3.4028235E38)
+double  - double precision floating point number = signed 64 bit (0 to 1.7976931348623157E308)
+boolean - boolean = signed 8 bit (true or false)
+char    - character = signed 16 bit (0 to 65535)
+byte    - byte = signed 8 bit (0 to 255)
+short   - short integer  = signed 16 bit (0 to 65535)
+
+
+Reference data types    - Примитивные типы данных
+
+String                  - Строка
+Object                  - Объект
+Array                   - Массив
+Collection              - Коллекция
+Map                     - Карта
+Set                     - Множество
+Queue                   - Очередь
+Stack                   - Стек
+List                    - Список
+LinkedList              - Связанный список
+ArrayList               - Динамический массив
+HashMap                 - Хэш
+HashSet                 - Хэш-множество
+LinkedHashMap           - Связанная карта
+LinkedHashSet           - Связанное множество
+
+
+Operators
+
+Arithmetic operators            - Арифметические операторы
++ - * / %
+
+Relational operators            - Операторы отношения
+== != < > <= >=
+
+Logical operators               - Логические операторы
+&& ||                           -
+
+Assignment operators            - Операторы присваивания
+= += -= *= /=
+
+Increment and decrement operators   - Операторы увеличения и уменьшения
+++ --
+
+Bitwise operators               - Побитовые операторы
+& | ^ ~ << >>
+
+Assignment operators            - Операторы присваивания
+= += -= *= /=
+
+Increment and decrement operators       - Операторы увеличения и уменьшения
+++ --
+
+Casting operators   - Операторы приведения типов
+(int) (long) (float) (double) (boolean) (char) (byte) (short)
+
+Ternary operator    - Тернарный оператор
+? :
+
+Conditional operator        - Условный оператор
+if else                     - Условный оператор
+switch  case                - Условный оператор
+
+Loops                       - Циклы
+while                       - Циклы
+do while                   - Циклы
+for                       - Циклы
+for each                   - Циклы
+
+Jump statements             - Операторы перехода
+break                       - Операторы перехода
+continue                    - Операторы перехода
+return                      - Операторы перехода
+
+Classes:                    - Классы
+class                       - Классы
+interface                       - Классы
+enum                        - Классы
+abstract class               - Классы
+abstract interface          - Классы
+
+Methods:                    - Методы
+static
+final
+abstract
+synchronized
+native
+strictfp
+transient
+volatile
+synchronized
+native
+strictfp
+transient
+
+Access modifiers                - Модификаторы доступа
+public
+protected
+private
+default
+
+
+
+Exception handling              - Обработка исключений
+try catch finally               - Обработка исключений
+throw
+throws
+try with resources  finally with resources  try with resources      - Обработка исключений
+catch
+finally
+throw
+throws
+try with resources  finally with resources
+catch
+finally
+throw
+throws
